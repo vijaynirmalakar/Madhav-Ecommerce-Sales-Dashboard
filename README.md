@@ -2,6 +2,9 @@
 I recently completed an end-to-end data analysis project on Madhav Ecommerce Store's 2018 sales data using Power BI. The dataset contained 1,500 transactions across 3 product categories, 5 payment modes, and multiple Indian states.
 What started as a simple dashboard project turned into a deep investigation because the numbers told a very different story than expected.
 
+<img width="1328" height="746" alt="Madhav Ecommerce Store Sales Dashboard" src="https://github.com/user-attachments/assets/057e9707-4ac6-4ac1-862c-e0665f950496" />
+
+
 #### Metric	Value	Interpretation
 Total Sales (Revenue) --->	₹4,37,771	(Total money received from customers)
 
